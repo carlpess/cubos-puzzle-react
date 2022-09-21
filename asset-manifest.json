@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cubos-puzzle-react/static/css/main.560e92f2.css",
+    "main.js": "/cubos-puzzle-react/static/js/main.3e047633.js",
+    "static/media/card-back.png": "/cubos-puzzle-react/static/media/card-back.a9f12982dab71372ca0a.png",
+    "static/media/htmlcss.png": "/cubos-puzzle-react/static/media/htmlcss.24df4f62493b38922231.png",
+    "static/media/react.png": "/cubos-puzzle-react/static/media/react.8d24e73eedd4c19e44a9.png",
+    "static/media/netlify.png": "/cubos-puzzle-react/static/media/netlify.91414e85772f27c024ae.png",
+    "static/media/heroku.png": "/cubos-puzzle-react/static/media/heroku.8d4dd40a00f11973139c.png",
+    "static/media/nodejs.png": "/cubos-puzzle-react/static/media/nodejs.d8a80bdb629299e0d8aa.png",
+    "static/media/javascript.png": "/cubos-puzzle-react/static/media/javascript.de727adf89a242b83ee9.png",
+    "static/media/congrats.png": "/cubos-puzzle-react/static/media/congrats.7449e7332ac11c30a148.png",
+    "static/media/icon.svg": "/cubos-puzzle-react/static/media/icon.dd8f92a1f30296bd525e14eb84311f8d.svg",
+    "index.html": "/cubos-puzzle-react/index.html",
+    "main.560e92f2.css.map": "/cubos-puzzle-react/static/css/main.560e92f2.css.map",
+    "main.3e047633.js.map": "/cubos-puzzle-react/static/js/main.3e047633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560e92f2.css",
+    "static/js/main.3e047633.js"
+  ]
+}
