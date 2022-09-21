@@ -6,7 +6,7 @@
 [Cubos Puzzle](https://carlpess.github.io/cubos-puzzle-react/)
 ## 
 Exercício executado durante o curso na Cubos Academy.
-O objetivo do projeto era criar um player de musicas responsivos utilizando ReactJS.
+O objetivo do projeto era criar um mini jogo de memória utilizando ReactJS.
 
 ## ⚙️  Executando
 
